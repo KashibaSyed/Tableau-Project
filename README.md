@@ -22,4 +22,5 @@ Collected the below mentioned data for the year range 2009 to 2019 from resource
 
 ### Data Cleaning
 Cleaned the data in Excel and R Programming. Used Pivot functions like Pivot_longer and Pivot_wider to structure and organize the data. 
-![image](https://user-images.githubusercontent.com/125816681/220258827-29a27e81-7851-470b-a5bd-894d16ce633f.png)
+![image](https://user-images.githubusercontent.com/125816681/220259097-c96add74-967b-4904-a31d-da74ac427196.png)
+
