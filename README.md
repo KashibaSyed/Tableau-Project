@@ -30,7 +30,7 @@ Calculated the dependency percentage using the formula, Dep % = Total External R
 ![image](https://user-images.githubusercontent.com/125816681/220260321-cad12079-ad29-4598-80a6-cdd9597efa38.png)
 
 ### Data analysis and Visualization
-*. By Plotting graphs for Available freswater resources and consumption, it is noted that Available freswater decreases year by year while the consumption on the other hand rises yearly. This leads to **Higher stress level** in the region apart from arid climate and climatic changes.
+* By Plotting graphs for Available freswater resources and consumption, it is noted that Available freswater decreases year by year while the consumption on the other hand rises yearly. This leads to **Higher stress level** in the region apart from arid climate and climatic changes.
 
 *Iran stands out for highest consumption in **Agricultural sector**. In 2019, the total available freshwater resource is **1652 CM/inhab**, whereas the consumption is **92.5 BCM/inhab**.
 
@@ -45,10 +45,10 @@ Calculated the dependency percentage using the formula, Dep % = Total External R
 ![Project1](https://user-images.githubusercontent.com/125816681/220265131-69932931-0217-47a9-8663-fd0bb0eb38a4.png)
 
 ### Technologies Used
-. Advance Excel
-. Tableau
-. R Programming
-. Bigquery
+1. Advance Excel
+2. Tableau
+3. R Programming
+4. Bigquery
 
 ### Project References:
 
