@@ -22,5 +22,12 @@ Collected the below mentioned data for the year range 2009 to 2019 from resource
 
 ### Data Cleaning
 Cleaned the data in Excel and R Programming. Used Pivot functions like Pivot_longer and Pivot_wider to structure and organize the data. 
-![image](https://user-images.githubusercontent.com/125816681/220259097-c96add74-967b-4904-a31d-da74ac427196.png)
+
+![image](https://user-images.githubusercontent.com/125816681/220259226-7d75ba70-c141-48a7-a265-afaa55e6ce09.png)
+
+Calculated the dependency percentage using the formula, Dep % = Total External Renewable resource/(Total External renewable resouce + Total Internal renewable resource)
+
+![image](https://user-images.githubusercontent.com/125816681/220260321-cad12079-ad29-4598-80a6-cdd9597efa38.png)
+
+### Data analysis and Visualization
 
