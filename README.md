@@ -30,4 +30,12 @@ Calculated the dependency percentage using the formula, Dep % = Total External R
 ![image](https://user-images.githubusercontent.com/125816681/220260321-cad12079-ad29-4598-80a6-cdd9597efa38.png)
 
 ### Data analysis and Visualization
+*By Plotting graphs for Available freswater resources and consumption, it is noted that Available freswater decreases year by year while the consumption on the other hand rises yearly. This leads to **Higher stress level** in the region apart from arid climate and climatic changes.
 
+*Iran stands out for highest consumption in **Agricultural sector**. In 2019, the total available freshwater resource is **1652 CM/inhab**, whereas the consumption is **92.5 BCM/inhab** 
+
+*Kuwait is the most stressed region. It depends completely on other countries since there is no internal resource.
+
+*The stress trend from the year 2009 to 2019 shows a rising curve which is an alarming signal for the region. If the situation pesists in the uplcoming years, the region has greatest expected economic losses from climate related water scarcity estimated at 6-14% GDP.
+
+*Best strategies like DESALINATION and RECYCLING should be identified and opted out to scale down the scarcity in MENA region. 
