@@ -5,7 +5,7 @@
 MENA is the most water stressed region in the world. The consumption is augmenting whereas the supply and internal freshwater availability is declining. The main objective of this project is to analyze "How the region is getting scarce and what measures has to be taken to prevent the region from getting worse".
 
 **Key Intent**:
-1. Total Available Freshwater
+. Total Available Freshwater
 2. Availability of freswater per capita
 3. Water Withdrawal and usage in major sectors
 4. Identifying the Stress Level for MENA region
@@ -44,6 +44,12 @@ Calculated the dependency percentage using the formula, Dep % = Total External R
 
 ![Project1](https://user-images.githubusercontent.com/125816681/220265131-69932931-0217-47a9-8663-fd0bb0eb38a4.png)
 
+### Technologies Used
+. Advance Excel
+. Tableau
+. R Programming
+. Bigquery
+
 ### Project References:
 
 | S.No  | Reference  👨‍💻   | Link 🔗|
@@ -51,3 +57,7 @@ Calculated the dependency percentage using the formula, Dep % = Total External R
 | 1     | Tableau Project Dashboard : Spotlighting Water stress level in MENA region | https://public.tableau.com/app/profile/kashiba.m/viz/Project1_16732724207260/Dashboard1   |
 | 2     | Tableau Profile                                                            | https://public.tableau.com/app/profile/kashiba.m/viz/MyResume_16674001460840/FinalResume  |
 | 3     | Tableau Chart References                                                   | https://help.tableau.com/current/pro/desktop/en-us/what_chart_example.htm|
+
+### For any queries/doubts
+
+Contact 
