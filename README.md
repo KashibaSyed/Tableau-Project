@@ -5,7 +5,7 @@
 MENA is the most water stressed region in the world. The consumption is augmenting whereas the supply and internal freshwater availability is declining. The main objective of this project is to analyze "How the region is getting scarce and what measures has to be taken to prevent the region from getting worse".
 
 **Key Intent**:
-. Total Available Freshwater
+1. Total Available Freshwater
 2. Availability of freswater per capita
 3. Water Withdrawal and usage in major sectors
 4. Identifying the Stress Level for MENA region
@@ -30,7 +30,7 @@ Calculated the dependency percentage using the formula, Dep % = Total External R
 ![image](https://user-images.githubusercontent.com/125816681/220260321-cad12079-ad29-4598-80a6-cdd9597efa38.png)
 
 ### Data analysis and Visualization
-*By Plotting graphs for Available freswater resources and consumption, it is noted that Available freswater decreases year by year while the consumption on the other hand rises yearly. This leads to **Higher stress level** in the region apart from arid climate and climatic changes.
+*. By Plotting graphs for Available freswater resources and consumption, it is noted that Available freswater decreases year by year while the consumption on the other hand rises yearly. This leads to **Higher stress level** in the region apart from arid climate and climatic changes.
 
 *Iran stands out for highest consumption in **Agricultural sector**. In 2019, the total available freshwater resource is **1652 CM/inhab**, whereas the consumption is **92.5 BCM/inhab**.
 
