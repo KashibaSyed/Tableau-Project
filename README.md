@@ -57,8 +57,3 @@ Calculated the dependency percentage using the formula, Dep % = Total External R
 | 1     | Tableau Project Dashboard : Spotlighting Water stress level in MENA region | https://public.tableau.com/app/profile/kashiba.m/viz/Project1_16732724207260/Dashboard1   |
 | 2     | Tableau Profile                                                            | https://public.tableau.com/app/profile/kashiba.m/viz/MyResume_16674001460840/FinalResume  |
 | 3     | Tableau Chart References                                                   | https://help.tableau.com/current/pro/desktop/en-us/what_chart_example.htm|
-
-### For any queries/doubts
-
-Contact [![linkedin](https://user-images.githubusercontent.com/125816681/220524042-0fc35c0d-b353-4b3c-94cb-06684caa24dd.png)]
-(https://www.linkedin.com/in/sulaikashi/)
