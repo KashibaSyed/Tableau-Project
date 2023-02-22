@@ -60,4 +60,5 @@ Calculated the dependency percentage using the formula, Dep % = Total External R
 
 ### For any queries/doubts
 
-Contact 
+Contact [![image](https://user-images.githubusercontent.com/125816681/220523459-3d2ad13f-785f-43bf-8f12-ccb08febaf8d.png)
+](https://www.linkedin.com/in/sulaikashi/)
