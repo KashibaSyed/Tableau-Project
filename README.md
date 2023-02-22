@@ -40,7 +40,7 @@ Calculated the dependency percentage using the formula, Dep % = Total External R
 
 * The stress trend from the year 2009 to 2019 shows a rising curve which is an alarming signal for the region. If the situation pesists in the uplcoming years, the region has greatest expected economic losses from climate related water scarcity estimated at 6-14% GDP.
 
-* Best strategies like DESALINATION and RECYCLING should be identified and opted out to scale down the scarcity in MENA region. 
+* Best strategies like **DESALINATION** and **RECYCLING** should be identified and opted out to scale down the scarcity in MENA region. 
 
 ### Tableau Dashboard:
 
